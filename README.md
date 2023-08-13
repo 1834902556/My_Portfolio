@@ -1,2 +1,2 @@
 # My_Portfolio
-This is my portfolio websit. I will update it day by day.
+This is my portfolio website. I will update it day by day.
